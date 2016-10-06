@@ -1,0 +1,18 @@
+C:\Users\X\AppData\Local\Temporary Projects\krizalljka\bin\Debug\krizalljka.exe
+C:\Users\X\AppData\Local\Temporary Projects\krizalljka\bin\Debug\krizalljka.pdb
+C:\Users\X\AppData\Local\Temporary Projects\krizalljka\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\X\AppData\Local\Temporary Projects\krizalljka\obj\x86\Debug\krizalljka.Form1.resources
+C:\Users\X\AppData\Local\Temporary Projects\krizalljka\obj\x86\Debug\krizalljka.Properties.Resources.resources
+C:\Users\X\AppData\Local\Temporary Projects\krizalljka\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\X\AppData\Local\Temporary Projects\krizalljka\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\X\AppData\Local\Temporary Projects\krizalljka\obj\x86\Debug\krizalljka.exe
+C:\Users\X\AppData\Local\Temporary Projects\krizalljka\obj\x86\Debug\krizalljka.pdb
+C:\Users\X\documents\visual studio 2010\Projects\krizalljka\krizalljka\obj\x86\Debug\krizalljka.exe
+C:\Users\X\documents\visual studio 2010\Projects\krizalljka\krizalljka\obj\x86\Debug\krizalljka.pdb
+C:\Users\X\Documents\Visual Studio 2010\Projects\krizalljka\krizalljka\bin\Debug\krizalljka.exe
+C:\Users\X\Documents\Visual Studio 2010\Projects\krizalljka\krizalljka\bin\Debug\krizalljka.pdb
+C:\Users\X\Documents\Visual Studio 2010\Projects\krizalljka\krizalljka\obj\x86\Debug\krizalljka.Form1.resources
+C:\Users\X\Documents\Visual Studio 2010\Projects\krizalljka\krizalljka\obj\x86\Debug\krizalljka.Properties.Resources.resources
+C:\Users\X\Documents\Visual Studio 2010\Projects\krizalljka\krizalljka\obj\x86\Debug\krizalljka.Clues.resources
+C:\Users\X\Documents\Visual Studio 2010\Projects\krizalljka\krizalljka\obj\x86\Debug\krizalljka.csprojResolveAssemblyReference.cache
+C:\Users\X\Documents\Visual Studio 2010\Projects\krizalljka\krizalljka\obj\x86\Debug\krizalljka.csproj.GenerateResource.Cache
